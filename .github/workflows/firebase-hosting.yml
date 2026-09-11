@@ -1,3 +1,4 @@
+node-version: 24
 name: Deploy Firebase Hosting
 
 on:
